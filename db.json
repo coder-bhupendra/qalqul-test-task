@@ -1,0 +1,200 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "category": "Philosophy",
+      "tags": [
+        "War",
+        "Strategy"
+      ],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "likes": 27,
+      "dislikes": 14
+    },
+    {
+      "id": 2,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "category": "Science Fiction",
+      "tags": [
+        "Humor",
+        "Adventure"
+      ],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "likes": 10,
+      "dislikes": 11
+    },
+    {
+      "id": 3,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "category": "Romance",
+      "tags": [
+        "Love",
+        "Society"
+      ],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "likes": 28,
+      "dislikes": 6
+    },
+    {
+      "id": 4,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "category": "Fiction",
+      "tags": [
+        "Racism",
+        "Justice"
+      ],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "likes": 42,
+      "dislikes": 8
+    },
+    {
+      "id": 5,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "category": "Fiction",
+      "tags": [
+        "Wealth",
+        "Love"
+      ],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "likes": 36,
+      "dislikes": 6
+    },
+    {
+      "id": 6,
+      "title": "1984",
+      "author": "George Orwell",
+      "category": "Science Fiction",
+      "tags": [
+        "Dystopian",
+        "Government"
+      ],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "likes": 29,
+      "dislikes": 7
+    },
+    {
+      "id": 7,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "category": "Fiction",
+      "tags": [
+        "Identity",
+        "Coming of Age"
+      ],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "likes": 24,
+      "dislikes": 4
+    },
+    {
+      "id": 8,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy",
+      "tags": [
+        "Adventure",
+        "Magic"
+      ],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "likes": 39,
+      "dislikes": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "articleId": 1,
+      "author": "John Doe",
+      "text": "Great article, thanks for sharing!"
+    },
+    {
+      "id": 2,
+      "articleId": 1,
+      "author": "Jane Smith",
+      "text": "I disagree with some of your points, but overall a good read."
+    },
+    {
+      "id": 3,
+      "articleId": 2,
+      "author": "Arthur Dent",
+      "text": "This book is amazing, highly recommend it!"
+    },
+    {
+      "id": 4,
+      "articleId": 2,
+      "author": "Ford Prefect",
+      "text": "I agree with Arthur, this is a must-read."
+    },
+    {
+      "articleId": 1,
+      "author": "",
+      "text": "Hello",
+      "id": 5
+    },
+    {
+      "articleId": 1,
+      "author": "kevin",
+      "text": "this is good",
+      "id": 6
+    },
+    {
+      "articleId": 2,
+      "author": "jeremy",
+      "text": "I like it",
+      "id": 7
+    },
+    {
+      "articleId": 1,
+      "author": "jeremy",
+      "text": "book was good",
+      "id": 8
+    },
+    {
+      "articleId": 1,
+      "author": "jeremy",
+      "text": "good job",
+      "id": 9
+    },
+    {
+      "articleId": 1,
+      "author": "jeremy",
+      "text": "not bad",
+      "id": 10
+    },
+    {
+      "articleId": 1,
+      "author": "jeremy",
+      "text": "well done",
+      "id": 11
+    },
+    {
+      "articleId": 1,
+      "author": "jeremy",
+      "text": "new comment",
+      "id": 12
+    },
+    {
+      "articleId": 1,
+      "author": "jeremy",
+      "text": "New one",
+      "id": 13
+    },
+    {
+      "articleId": 1,
+      "author": "jeremy",
+      "text": "good job",
+      "id": 14
+    },
+    {
+      "articleId": 2,
+      "author": "kevin",
+      "text": "liked it",
+      "id": 15
+    }
+  ]
+}
